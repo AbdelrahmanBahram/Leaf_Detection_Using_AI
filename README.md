@@ -1,4 +1,5 @@
-🌿 Leaf Detection AI Project
+🌿 Leaf Detection AI Project:
+
 Project Description
 This project focuses on developing robust image classification models to distinguish between "leaf" and "non-leaf" images. The primary objective is to create an accurate and efficient system capable of serving as a crucial pre-filter in agricultural applications, such as plant disease detection pipelines. Both traditional Machine Learning (ML) and Deep Learning (DL) methodologies have been explored and implemented to address this binary classification problem.
 
